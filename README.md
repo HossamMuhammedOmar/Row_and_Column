@@ -107,4 +107,4 @@ https://flutter.dev/docs
 
 
 
-<img src='Images/Black%20Red%20and%20Blue%20Modern%20Fashion%20Logo.gif'width="300"/>
+<img src='Images/Black%20Red%20and%20Blue%20Modern%20Fashion%20Logo.gif' width="300"/>
